@@ -5,7 +5,7 @@
   Friendly, proactive. I love what I do.
 
 ## Education:
-  * Belarusian State University Of Informatics And Radioelectronics
+  * First of all, I really like software development. I like to lern new things and put them into practice. Redy to improve my skills every day. My environment considers me as a pleasent and sociable person.
 
 ## Skills:
   HTML5, CSS, JS
